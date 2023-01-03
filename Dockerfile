@@ -1,1 +1,1 @@
-FROM amazonlinux:with-sources
+FROM amazonlinux:with-sources@sha256:d644b20bcf5d2b2d8904a9d71eef795f251eb514e97e17a982bd15864042ef9b
